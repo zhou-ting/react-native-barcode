@@ -1,0 +1,31 @@
+{
+  "name": "react-native-barcode",
+  "version": "1.0.0",
+  "description": "一个简单的二维码扫描组件",
+  "main": "Barcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhou-ting/react-native-barcode.git"
+  },
+  "keywords": [
+    "react-native",
+    "smart",
+    "barcode",
+    "scan"
+  ],
+  "author": "周婷",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhou-ting/react-native-barcode/issues"
+  },
+  "homepage": "https://github.com/zhou-ting/react-native-barcode#readme",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
